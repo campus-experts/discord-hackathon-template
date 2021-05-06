@@ -18,61 +18,49 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgement)
-
 ## 🧐 About <a name = "about"></a>
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get hackathons organizers up and running with their hackathon Discord server.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+1. Get the [GitHub Student Developer Pack](https://education.github.com/pack)
+2. Create a Discord account.
+3. ABC
+4. XYZ
 
-```
-Give examples
-```
 
-### Installing
+### Setting up your server
 
-A step by step series of examples that tell you how to get a development env running.
+A step by step guide that tell you how to get a server ready for a hackathon and recommended bots.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
+### 🤖 Bots
+| Bot | Description |
+|-|-|
+| [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
+| [Templae](https://github.com) | Template |
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+Add notes about how to use the server.
 
-## Contributors  <a name = "contributors"></a>
+### Announcements
+How should Hackathon organizers use the announcements channel.
+
+### Mini Events
+How should Hackathon organizers organize mini events on Discord.
+
+### Tips & Trics
+## ✍ Contributors  <a name = "contributors"></a>
 
 <!-- readme: collaborators,contributors -start -->
 <!-- readme: collaborators,contributors -end -->
 
-### Partners  <a name = "contributors"></a>
+### Partners
 
 <!-- readme: hoges, mpsiebert -start -->
 <!-- readme: hoges, mpsiebert -end -->
