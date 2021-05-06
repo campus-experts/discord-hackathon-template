@@ -58,6 +58,16 @@ How should Hackathon organizers organize mini events on Discord.
 ## ✍ Contributors  <a name = "contributors"></a>
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/juanpflores">
+            <img src="https://avatars.githubusercontent.com/u/6200135?v=4" width="100;" alt="juanpflores"/>
+            <br />
+            <sub><b>Juan Pablo Flores </b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
 ### Partners
