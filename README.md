@@ -14,24 +14,23 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Get started with using Discord for your virtual Hackathon.
     <br> 
 </p>
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Ever wanted to supercharge your online hackathon with Discord, but didn't know where to start? Fear not! This template, and the documentation below, gets you set up and running with your very own Hackathon Discord server in minutes. With a one-click server template packed full of pre-configured channels and roles, and all the documentation and resources to get your event going, this is your one-stop-shop for running a successful hackathon - or any other virtual event - on Discord.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get hackathons organizers up and running with their hackathon Discord server.
+To get started with all these fantastic resources, you'll need the GitHub Student Developer Pack, a Discord account, and a little background knowledge of Discord! If you already have all of these, you can speed through to using the Hackathon Template below, and begin fleshing out your server with Bots, graphics, and event ideas.
 
 ### Prerequisites
 
 1. Get the [GitHub Student Developer Pack](https://education.github.com/pack)
-2. Create a Discord account.
-3. ABC
-4. XYZ
+2. Create a [Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
+3. Check out the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 
 ### Setting up your server
@@ -56,6 +55,7 @@ How should Hackathon organizers organize mini events on Discord.
 
 ### Tips & Trics
 ## ✍ Contributors  <a name = "contributors"></a>
+
 
 <!-- readme: collaborators,contributors -start -->
 <table>
