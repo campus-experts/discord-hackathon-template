@@ -64,7 +64,7 @@ How should Hackathon organizers organize mini events on Discord.
         <a href="https://github.com/hoges">
             <img src="https://avatars.githubusercontent.com/u/30841926?v=4" width="100;" alt="hoges"/>
             <br />
-            <sub><b>hoges</b></sub>
+            <sub><b>Hoges</b></sub>
         </a>
     </td>
     <td align="center">
