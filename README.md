@@ -74,8 +74,8 @@ Add notes about how to use the system.
 
 ### Partners  <a name = "contributors"></a>
 
-<!-- readme: hoges -start -->
-<!-- readme: hoges -end -->
+<!-- readme: hoges, mpsiebert -start -->
+<!-- readme: hoges, mpsiebert -end -->
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
