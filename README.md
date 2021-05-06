@@ -62,8 +62,8 @@ How should Hackathon organizers organize mini events on Discord.
 
 ### Partners
 
-<!-- readme: hoges, mpsiebert -start -->
-<!-- readme: hoges, mpsiebert -end -->
+<!-- readme: hoges,mpsiebert -start -->
+<!-- readme: hoges,mpsiebert -end -->
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
