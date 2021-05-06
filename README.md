@@ -56,9 +56,24 @@ How should Hackathon organizers organize mini events on Discord.
 ### Tips & Trics
 ## ✍ Contributors  <a name = "contributors"></a>
 
+
 <!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
+    <td align="center">
+        <a href="https://github.com/hoges">
+            <img src="https://avatars.githubusercontent.com/u/30841926?v=4" width="100;" alt="hoges"/>
+            <br />
+            <sub><b>Hoges</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wrussell1999">
+            <img src="https://avatars.githubusercontent.com/u/34094921?v=4" width="100;" alt="wrussell1999"/>
+            <br />
+            <sub><b>Will Russell</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/juanpflores">
             <img src="https://avatars.githubusercontent.com/u/6200135?v=4" width="100;" alt="juanpflores"/>
@@ -78,14 +93,14 @@ How should Hackathon organizers organize mini events on Discord.
         <a href="https://github.com/hoges">
             <img src="https://avatars.githubusercontent.com/u/30841926?v=4" width="100;" alt="hoges"/>
             <br />
-            <sub><b>hoges</b></sub>
+            <sub><b>Hoges</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/mpsiebert">
             <img src="https://avatars.githubusercontent.com/u/21230922?v=4" width="100;" alt="mpsiebert"/>
             <br />
-            <sub><b>mpsiebert</b></sub>
+            <sub><b>Mpsiebert</b></sub>
         </a>
     </td></tr>
 </table>
