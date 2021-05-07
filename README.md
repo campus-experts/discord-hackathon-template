@@ -35,11 +35,12 @@ To get started with all these fantastic resources, you'll need the GitHub Studen
 
 ### Setting up your server
 
-Now that you're all set up with a Student Dev Pack, have a Discord account, and know the basics of using Discord, you're ready to create your very own Hackathon server! We've provided a Discord Server template, at the button below, for you to get started with. This comes pre-loaded with all the channels, roles, and permissions you need for a Hackathon server. **You can only use this template to set up a brand new server**, so if you've already got a server going, you can either delete it and start a new one, or open up the template on a spare server and use it for inspiration and improvement!
+Now that you're all set up with a Student Dev Pack, have a Discord account, and know the basics of using Discord, you're ready to create your very own Hackathon server! We've provided a Discord Server template, at the link below, for you to get started with. This comes pre-loaded with all the channels, roles, and permissions you need for a Hackathon server. 
+
+:warning: **You can only use this template to set up a brand new server**, so if you've already got a server going, you can either delete it and start a new one, or open up the template on a spare server and use it for inspiration and improvement!
 
 *Template goes here*
-
-[](discord.new)
+[Hackathon Server Template](discord.new)
 
 ### 🤖 Bots
 | Bot | Description |
