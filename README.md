@@ -41,7 +41,6 @@ A step by step guide that tell you how to get a server ready for a hackathon and
 | Bot | Description |
 |-|-|
 | [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
-| [dankmemer](https://dankmemer.lol/) | dankmemer increases server engagement by always replying with a meme|
 | [Templae](https://github.com) | Template |
 
 ## 🎈 Usage <a name="usage"></a>
