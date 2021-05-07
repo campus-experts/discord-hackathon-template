@@ -40,6 +40,7 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 :warning: **You can only use this template to set up a brand new server**, so if you've already got a server going, you can either delete it and start a new one, or open up the template on a spare server and use it for inspiration and improvement!
 
 *Template goes here*
+
 [Hackathon Server Template](discord.new)
 
 ### 🤖 Bots
