@@ -47,8 +47,7 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 | Bot | Description |
 |-|-|
 | [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
-| [Suivix](https://suivix.xyz/en) | You are a professor or maybe even a business manager and you want to take attendance
-on Discord. No worries! Suivix will take care of it for you. |
+| [Suivix](https://suivix.xyz/en) | You are a professor or maybe even a business manager and you want to take attendance on Discord. No worries! Suivix will take care of it for you. |
 | [Templae](https://github.com) | Template |
 
 ## 🎈 Usage <a name="usage"></a>
