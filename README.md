@@ -51,7 +51,8 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 
 3. Judge
 
-4. Attendees
+4. Attendee
+
 
 #### Categories and channel
 
