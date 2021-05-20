@@ -43,6 +43,46 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 
 [Hackathon Server Template](discord.new)
 
+### Template Structure
+
+#### Roles
+1. Event Staff
+2. Mentors
+3. Judges
+4. Attendees
+
+#### Categories and channel
+
+
+- Welcome
+  - A: announcements
+  - T: #welcome
+  - T: #rules
+  - T: #faq-and-resources
+- Mod
+  - T: #staff-chat
+  - T: #mod-log
+  - V: Staff Warroom
+- General
+  - T: #introductions
+  - T: #general
+  - T: #event-questions
+  - T: #feedback
+  - V: Main Stage
+  - V: Breakout Room #1
+  - V: Breakout Room #1
+- Activities
+  - T: #off-topic
+  - Lounge
+- Mentoring
+  - T: #whois
+  - T: #get-a-mentor
+  - T: #mentor-room-1
+  - T: #mentor-room-2
+  - V: Mentor Room 1
+  - V: Mentor Room 2
+
+
 ### 🤖 Bots
 | Bot | Description |
 |-|-|
