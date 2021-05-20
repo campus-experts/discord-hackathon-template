@@ -73,7 +73,8 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - T: #feedback
   - V: Main Stage
   - V: Breakout Room #1
-  - V: Breakout Room #1
+  - V: Breakout Room #2
+
 - Activities
   - T: #off-topic
   - V: Lounge
