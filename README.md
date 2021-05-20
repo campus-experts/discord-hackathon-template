@@ -64,6 +64,8 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - T: #faq-and-resources
 - Mod
   - T: #staff-chat
+  - T: #judging
+
   - T: #mod-log
   - V: Staff Warroom
 - General
