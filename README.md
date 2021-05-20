@@ -47,7 +47,8 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 
 #### Roles
 1. Event Staff
-2. Mentors
+2. Mentor
+
 3. Judges
 4. Attendees
 
