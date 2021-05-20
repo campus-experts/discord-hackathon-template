@@ -76,7 +76,8 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - V: Breakout Room #1
 - Activities
   - T: #off-topic
-  - Lounge
+  - V: Lounge
+
 - Mentoring
   - T: #whois
   - T: #get-a-mentor
