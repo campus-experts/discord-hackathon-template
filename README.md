@@ -49,7 +49,8 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 1. Event Staff
 2. Mentor
 
-3. Judges
+3. Judge
+
 4. Attendees
 
 #### Categories and channel
