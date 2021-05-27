@@ -48,10 +48,9 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 #### Roles
 1. Event Staff
 2. Mentor
-
-3. Judge
-
-4. Attendee
+3. Speaker
+4. Judge
+5. Attendee
 
 
 #### Categories and channel
@@ -62,12 +61,13 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - T: #welcome
   - T: #rules
   - T: #faq-and-resources
+  - T: #schedule
 - Mod
   - T: #staff-chat
   - T: #judging
-
   - T: #mod-log
   - V: Staff Warroom
+
 - General
   - T: #introductions
   - T: #general
@@ -77,9 +77,17 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - V: Breakout Room #1
   - V: Breakout Room #2
 
+- Sponsors
+  - T: #sponsor-1
+  - T: #sponsor-2
+  - V: Sponsor 1 Lounge
+  - V: Sponsor 2 Lounge
+
 - Activities
   - T: #off-topic
   - V: Lounge
+  - T: #workshop-1
+  - V: workshop 1
 
 - Mentoring
   - T: #whois
