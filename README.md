@@ -57,45 +57,45 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 
 
 - Welcome
-  - A: announcements
-  - T: #welcome
-  - T: #rules
-  - T: #faq-and-resources
-  - T: #schedule
+  - A: 📢| announcements
+  - T: #👋| welcome
+  - T: #📝| rules
+  - T: #❓| faq-and-resources
+  - T: #📅| schedule
 - Mod
-  - T: #staff-chat
-  - T: #judging
-  - T: #mod-log
-  - V: Staff Warroom
+  - T: #💬| staff-chat
+  - T: #🎖| judging
+  - T: #🛡| mod-log
+  - V:📣 Staff Warroom
 
 - General
-  - T: #introductions
-  - T: #general
-  - T: #event-questions
-  - T: #feedback
-  - V: Main Stage
-  - V: Breakout Room #1
-  - V: Breakout Room #2
+  - T: #🔰| introductions
+  - T: #💬| general
+  - T: #❓| event-questions
+  - T: #👂| feedback
+  - V:🏛 Main Stage
+  - V:🎙 Breakout Room #1
+  - V:🎙 Breakout Room #2
 
 - Sponsors
-  - T: #sponsor-1
-  - T: #sponsor-2
-  - V: Sponsor 1 Lounge
-  - V: Sponsor 2 Lounge
+  - T: #💬| sponsor-1
+  - T: #💬| sponsor-2
+  - V:🎙 Sponsor 1 Lounge
+  - V:🎙 Sponsor 2 Lounge
 
 - Activities
-  - T: #off-topic
-  - V: Lounge
-  - T: #workshop-1
-  - V: workshop 1
+  - T: #👾| off-topic
+  - V:☕️ Lounge
+  - T: #🎒| workshop-1
+  - V:🎙 workshop 1
 
 - Mentoring
-  - T: #whois
-  - T: #get-a-mentor
-  - T: #mentor-room-1
-  - T: #mentor-room-2
-  - V: Mentor Room 1
-  - V: Mentor Room 2
+  - T: #👤| whois
+  - T: #✋| get-a-mentor
+  - T: #💬| mentor-room-1
+  - T: #💬| mentor-room-2
+  - V:🎙 Mentor Room 1
+  - V:🎙 Mentor Room 2
 
 
 ### 🤖 Bots
