@@ -77,11 +77,9 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - V:🎙 Breakout Room #1
   - V:🎙 Breakout Room #2
 
-- Sponsors
+- Sponsor-1
   - T: #💬| sponsor-1
-  - T: #💬| sponsor-2
   - V:🎙 Sponsor 1 Lounge
-  - V:🎙 Sponsor 2 Lounge
 
 - Activities
   - T: #👾| off-topic
