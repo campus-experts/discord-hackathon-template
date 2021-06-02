@@ -100,6 +100,7 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
 | Bot | Description |
 |-|-|
 | [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
+| [Ticket Tool](https://tickettool.xyz/) | Ticket Tool is a highly versatile support bot for Discord. It allows private support channels, or Tickets, between your staff team and individual users to be created. |
 | [Templae](https://github.com) | Template |
 
 ## 🎈 Usage <a name="usage"></a>
