@@ -61,39 +61,35 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - T: #👋| welcome
   - T: #📝| rules
   - T: #❓| faq-and-resources
-  - T: #📅| schedule
+  - T: #🌱| getting-started
+
 - Mod
   - T: #💬| staff-chat
   - T: #🎖| judging
   - T: #🛡| mod-log
-  - V:📣 Staff Warroom
+  - V:📣 Staff War Room
 
 - General
   - T: #🔰| introductions
   - T: #💬| general
   - T: #❓| event-questions
-  - T: #👂| feedback
   - V:🏛 Main Stage
-  - V:🎙 Breakout Room #1
-  - V:🎙 Breakout Room #2
+  - V:☕️ Lounge
+  - V:🎙 Breakout Room
 
 - Sponsor-1
   - T: #💬| sponsor-1
-  - V:🎙 Sponsor 1 Lounge
 
 - Activities
   - T: #👾| off-topic
-  - V:☕️ Lounge
-  - T: #🎒| workshop-1
-  - V:🎙 workshop 1
+  - T: #🎒| workshop
+  - V:🎙 workshop
 
 - Mentoring
   - T: #👤| whois
   - T: #✋| get-a-mentor
   - T: #💬| mentor-room-1
-  - T: #💬| mentor-room-2
   - V:🎙 Mentor Room 1
-  - V:🎙 Mentor Room 2
 
 
 ### 🤖 Bots
