@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=200px src="images/logo.png" alt="Project logo"></a>
+ <img height=200px src="images/RepoHero.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Discord Hackathon Template</h3>
@@ -28,29 +28,30 @@ To get started with all these fantastic resources, you'll need the GitHub Studen
 
 ### Prerequisites
 
-1. Get the [GitHub Student Developer Pack](https://education.github.com/pack)
+1. Get the [GitHub Student Developer Pack](https://education.github.com/virtual-event-kit?utm_source=github-kit-repo)
 2. Create a [Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 3. Check out the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 
 ### Setting up your server
 
-Now that you're all set up with a Student Dev Pack, have a Discord account, and know the basics of using Discord, you're ready to create your very own Hackathon server! We've provided a Discord Server template, at the link below, for you to get started with. This comes pre-loaded with all the channels, roles, and permissions you need for a Hackathon server. 
+Now that you're all set up with the Student Developer Pack, have a Discord account, and know the basics of using Discord, you're ready to create your very own Hackathon server! We've provided a Discord Server template, at the link below, for you to get started with. This template comes pre-loaded with all the channels, roles, and permissions you need for a Hackathon server. 
 
 :warning: **You can only use this template to set up a brand new server**, so if you've already got a server going, you can either delete it and start a new one, or open up the template on a spare server and use it for inspiration and improvement!
 
 *Template goes here*
 
-[Hackathon Server Template](discord.new)
+### 🔗 [Hackathon Server Template](discord.new)
 
 ### Template Structure
+The structure and roles of the template are consider minimal for any hackathon - but it's a good starting point for any type of virtual event. Let's take a look at the channels and roles:
 
 #### Roles
-1. Event Staff
-2. Mentor
-3. Speaker
-4. Judge
-5. Attendee
+1. **Event Staff**: Anyone involved in the event organization such as hosts, moderators, and volunteers. This role has moderator permissions, and can  mute, kick, and ban users.
+2. **Mentor**: An individual who is a part of the event, and provides advice to attendees.
+3. **Speaker**: An individual who is a part of the event, and delivers content through talk or workshop.
+4. **Judge**: An individual who is a part of the event, and evaluates the projects based on a criteria.
+5. **Attendee**: Any individual who is a part of the event, and is either participating or lurking on the event server.   
 
 
 #### Categories and channel
@@ -61,47 +62,66 @@ Now that you're all set up with a Student Dev Pack, have a Discord account, and 
   - T: #👋| welcome
   - T: #📝| rules
   - T: #❓| faq-and-resources
-  - T: #📅| schedule
+  - T: #🌱| getting-started
+
 - Mod
   - T: #💬| staff-chat
   - T: #🎖| judging
   - T: #🛡| mod-log
-  - V:📣 Staff Warroom
+  - V:📣 Staff War Room
 
 - General
   - T: #🔰| introductions
   - T: #💬| general
   - T: #❓| event-questions
-  - T: #👂| feedback
   - V:🏛 Main Stage
-  - V:🎙 Breakout Room #1
-  - V:🎙 Breakout Room #2
+  - V:☕️ Lounge
+  - V:🎙 Breakout Room
 
 - Sponsor-1
   - T: #💬| sponsor-1
-  - V:🎙 Sponsor 1 Lounge
 
 - Activities
   - T: #👾| off-topic
-  - V:☕️ Lounge
-  - T: #🎒| workshop-1
-  - V:🎙 workshop 1
+  - T: #🎒| workshop
+  - V:🎙 workshop
 
 - Mentoring
   - T: #👤| whois
   - T: #✋| get-a-mentor
-  - T: #💬| mentor-room-1
-  - T: #💬| mentor-room-2
-  - V:🎙 Mentor Room 1
-  - V:🎙 Mentor Room 2
+  - T: #💬| mentor-room
+  - V:🎙 Mentor Room
 
+### Enable community features
+To take the best of the Discord features, you'll need enabled the community features. This features will unlock the following community tools:
+1. Announcements channel
+2. Welcome screen
+3. Server insights
+
+To enable your community server, you can read the instructions in the [Discord App Docs](https://discordapp.com/developers/docs/topics/gateway#enable-community-features).
+
+### Assign roles to users
+
+
+### Personalize your server
+
+1. Add an image icon to your server 
+2. Create a welcome message for new users to read 
+3. Use emojis in your server channels
+
+
+### Add sponsors
+In order to provide visibility to your sponsors, you can create a category for each of them. We added an example on how this will look like in the `Sponsor` category of the template. By default, there is no voice channel but we suggest that sponsors have the ability to open a support voice channel within their sponsor category to help out attendees or interact with them.
+
+To give sponosors permissions to open a voice channel in their sponsor category, you can either give the each individual member the `manage channels` permission in the category.
 
 ### 🤖 Bots
+Use the following bots to create your own custom commands and functionality. These bots will help you automate your event making it more interactive, easy to manage and fun! We highly encourage you to customize these bots to your event needs.
+
 | Bot | Description |
 |-|-|
 | [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
 | [Ticket Tool](https://tickettool.xyz/) | Ticket Tool is a highly versatile support bot for Discord. It allows private support channels, or Tickets, between your staff team and individual users to be created. |
-| [Templae](https://github.com) | Template |
 
 ## 🎈 Usage <a name="usage"></a>
 
@@ -113,7 +133,19 @@ How should Hackathon organizers use the announcements channel.
 ### Mini Events
 How should Hackathon organizers organize mini events on Discord.
 
-### Tips & Trics
+### Voice channels
+How should Hackathon organizers should use voice channels.
+
+### Stage channels
+How should Hackathon organizers should use the main stage channels.
+
+### Tips & Tricks
+- Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
+- Tell judges **not** to answer DMs from attendees. 
+
+## 🎈 Additional Resources <a name="resources"></a>
+
+
 ## ✍ Contributors  <a name = "contributors"></a>
 
 
