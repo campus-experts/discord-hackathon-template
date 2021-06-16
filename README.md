@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=200px src="images/RepoHero.png" alt="Project logo"></a>
+ <img src="images/RepoHero.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Discord Hackathon Template</h3>
