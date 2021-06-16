@@ -134,10 +134,10 @@ How should Hackathon organizers use the announcements channel.
 How should Hackathon organizers organize mini events on Discord.
 
 ### Voice channels
-How should Hackathon organizers should use voice channels.
+How should Hackathon organizers use voice channels.
 
 ### Stage channels
-How should Hackathon organizers should use the main stage channels.
+How should Hackathon organizers use the main stage channels.
 
 ### Tips & Tricks
 - Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
