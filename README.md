@@ -3,7 +3,7 @@
  <img src="images/RepoHero.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Discord Hackathon Template</h3>
+<h3 align="center">Discord Hackathon Server Template</h3>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Get started with using Discord for your virtual Hackathon.
+<p align="center"> Supercharge your hackathon experience.
     <br> 
 </p>
 
@@ -42,6 +42,39 @@ Now that you're all set up with the Student Developer Pack, have a Discord accou
 *Template goes here*
 
 ### 🔗 [Hackathon Server Template](discord.new)
+
+### Enable community features
+To take the best of the Discord features, you'll need enabled the community features. To enable your community server, you can read the instructions in the [Discord App Docs](https://discordapp.com/developers/docs/topics/gateway#enable-community-features). This features will unlock the following community tools:
+1. Announcements channel
+2. Welcome screen
+3. Server insights
+
+
+### Personalize your server
+
+1. Add an image icon to your server 
+2. Create a welcome message for new users to read 
+3. Use emojis in your server channels
+
+### Assign roles to users
+Invite the hackathon staff, speakers, mentors and sponsors to your server and assign them the role that suits them better. You can read more about the server roles in the [Template Structure](https://github.com/campus-experts/discord-hackathon-template#template-structure) section.
+
+### Add sponsors
+In order to provide visibility to your sponsors, you can create a category for each of them. We added an example on how this will look like in the `Sponsor` category of the template. By default, there is no voice channel but we suggest that sponsors have the ability to open a support voice channel within their sponsor category to help out attendees or interact with them.
+
+To give sponosors permissions to open a voice channel in their sponsor category, you can either give the each individual member the `manage channels` permission in the category.
+
+### 🤖 Bots
+Use the following bots to create your own custom commands and functionality. These bots will help you automate your event making it more interactive, easy to manage and fun! We highly encourage you to customize these bots to your event needs.
+
+| Bot | Description |
+|-|-|
+| [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
+| [Ticket Tool](https://tickettool.xyz/) | Ticket Tool is a highly versatile support bot for Discord. It allows private support channels, or Tickets, between your staff team and individual users to be created. |
+
+### Tips & Tricks
+- Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
+- Tell judges **not** to answer DMs from attendees unless your team agrees to provide feedback to attendees.
 
 ### Template Structure
 The structure and roles of the template are consider minimal for any hackathon - but it's a good starting point for any type of virtual event. Let's take a look at the channels and roles:
@@ -92,58 +125,11 @@ The structure and roles of the template are consider minimal for any hackathon -
   - T: #💬| mentor-room
   - V:🎙 Mentor Room
 
-### Enable community features
-To take the best of the Discord features, you'll need enabled the community features. This features will unlock the following community tools:
-1. Announcements channel
-2. Welcome screen
-3. Server insights
-
-To enable your community server, you can read the instructions in the [Discord App Docs](https://discordapp.com/developers/docs/topics/gateway#enable-community-features).
-
-### Assign roles to users
-
-
-### Personalize your server
-
-1. Add an image icon to your server 
-2. Create a welcome message for new users to read 
-3. Use emojis in your server channels
-
-
-### Add sponsors
-In order to provide visibility to your sponsors, you can create a category for each of them. We added an example on how this will look like in the `Sponsor` category of the template. By default, there is no voice channel but we suggest that sponsors have the ability to open a support voice channel within their sponsor category to help out attendees or interact with them.
-
-To give sponosors permissions to open a voice channel in their sponsor category, you can either give the each individual member the `manage channels` permission in the category.
-
-### 🤖 Bots
-Use the following bots to create your own custom commands and functionality. These bots will help you automate your event making it more interactive, easy to manage and fun! We highly encourage you to customize these bots to your event needs.
-
-| Bot | Description |
-|-|-|
-| [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
-| [Ticket Tool](https://tickettool.xyz/) | Ticket Tool is a highly versatile support bot for Discord. It allows private support channels, or Tickets, between your staff team and individual users to be created. |
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the server.
-
-### Announcements
-How should Hackathon organizers use the announcements channel.
-
-### Mini Events
-How should Hackathon organizers organize mini events on Discord.
-
-### Voice channels
-How should Hackathon organizers use voice channels.
-
-### Stage channels
-How should Hackathon organizers use the main stage channels.
-
-### Tips & Tricks
-- Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
-- Tell judges **not** to answer DMs from attendees. 
-
-## 🎈 Additional Resources <a name="resources"></a>
+## Additional Resources <a name="resources"></a>
+- Claim your [Virtual Event Kit](https://education.github.com/virtual-event-kit?utm_source=github-kit-repo) benefits and organize virtual events like a pro without paying for tools or services.
+- Learn how to moderate a Discord server with [Discord's moderation guides](https://discord.com/moderation).
+- Join the Major League Hacking [hackathon season](https://mlh.io/event-membership).
+- Read the hackathon organizer [guide](https://guide.mlh.io/).
 
 
 ## ✍ Contributors  <a name = "contributors"></a>
@@ -182,24 +168,18 @@ How should Hackathon organizers use the main stage channels.
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/hoges">
-            <img src="https://avatars.githubusercontent.com/u/30841926?v=4" width="100;" alt="hoges"/>
+        <a href="https://discord.com/">
+            <img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="100;" alt="Dicord"/>
             <br />
-            <sub><b>Hoges</b></sub>
+            <sub><b>Discord</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/mpsiebert">
-            <img src="https://avatars.githubusercontent.com/u/21230922?v=4" width="100;" alt="mpsiebert"/>
+        <a href="https://mlh.io/">
+            <img src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.png" width="100;" alt="Major League Hacking"/>
             <br />
-            <sub><b>Mpsiebert</b></sub>
+            <sub><b>MLH</b></sub>
         </a>
     </td></tr>
 </table>
 <!-- readme: hoges,mpsiebert -end -->
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
