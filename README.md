@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="images/RepoHero.png" alt="Project logo"></a>
+ <img src="images/Discord MLH Git.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Discord Hackathon Server Template</h3>
@@ -28,9 +28,9 @@ To get started with all these fantastic resources, you'll need the GitHub Studen
 
 ### Prerequisites
 
-1. Get the [GitHub Student Developer Pack](https://education.github.com/virtual-event-kit?utm_source=github-kit-repo)
-2. Create a [Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
-3. Check out the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
+1. 🎒 Get the [GitHub Student Developer Pack](https://education.github.com/virtual-event-kit?utm_source=github-kit-repo)
+2. <img src="https://user-images.githubusercontent.com/57787993/122444864-99454680-cf66-11eb-9be5-d88b03a767e4.png" width="20px" /> Create a [Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
+3. 📖 Check out the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 
 ### Setting up your server
@@ -156,7 +156,15 @@ The structure and roles of the template are consider minimal for any hackathon -
             <br />
             <sub><b>Juan Pablo Flores </b></sub>
         </a>
-    </td></tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/David-Lazaro-Fernandez">
+            <img src="https://avatars.githubusercontent.com/u/57787993?s=400&u=eab175b2d6c41338891c8e71335322d1dcb6f0ad&v=4" width="100;" alt="DavidLazaro"/>
+            <br />
+            <sub><b>David Lazaro Fernandez</b></sub>
+        </a>
+    </td>
+  </tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
 
