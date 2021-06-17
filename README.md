@@ -49,7 +49,6 @@ To take the best of the Discord features, you'll need enabled the community feat
 2. Welcome screen
 3. Server insights
 
-
 ### Personalize your server
 
 1. Add an image icon to your server 
@@ -130,7 +129,6 @@ The structure and roles of the template are consider minimal for any hackathon -
 - Learn how to moderate a Discord server with [Discord's moderation guides](https://discord.com/moderation).
 - Join the Major League Hacking [hackathon season](https://mlh.io/event-membership).
 - Read the hackathon organizer [guide](https://guide.mlh.io/).
-
 
 ## ✍ Contributors  <a name = "contributors"></a>
 
