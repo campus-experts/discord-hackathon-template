@@ -39,9 +39,7 @@ Now that you're all set up with the Student Developer Pack, have a Discord accou
 
 :warning: **You can only use this template to set up a brand new server**, so if you've already got a server going, you can either delete it and start a new one, or open up the template on a spare server and use it for inspiration and improvement!
 
-*Template goes here*
-
-### 🔗 [Hackathon Server Template](discord.new)
+### 🔗 [Hackathon Server Template](https://dis.gd/GHhackathon)
 
 ### Enable community features
 To take the best of the Discord features, you'll need enabled the community features. To enable your community server, you can read the instructions in the [Discord App Docs](https://discordapp.com/developers/docs/topics/gateway#enable-community-features). This features will unlock the following community tools:
