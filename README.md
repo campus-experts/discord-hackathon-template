@@ -42,7 +42,7 @@ Now that you're all set up with the Student Developer Pack, have a Discord accou
 ### 🔗 [Hackathon Server Template](https://dis.gd/GHhackathon)
 
 ### Enable community features
-To take the best of the Discord features, you'll need enabled the community features. To enable your community server, you can read the instructions in the [Discord App Docs](https://discordapp.com/developers/docs/topics/gateway#enable-community-features). This features will unlock the following community tools:
+To take the best of the Discord features, you'll need enabled the community features. To enable your community server, you can read the instructions in the [Discord App Docs](https://support.discord.com/hc/en-us/articles/360047132851). This features will unlock the following community tools:
 1. Announcements channel
 2. Welcome screen
 3. Server insights
