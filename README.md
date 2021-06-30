@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Supercharge your hackathon experience.
+<p align="center"> Supercharge your hackathon experience
     <br> 
 </p>
 
