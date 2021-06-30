@@ -128,6 +128,13 @@ The structure and roles of the template are consider minimal for any hackathon -
 - Join the Major League Hacking [hackathon season](https://mlh.io/event-membership).
 - Read the hackathon organizer [guide](https://guide.mlh.io/).
 
+### Videos
+
+1. [Introduction to the Virtual Event Kit Launch! w/ Discord and MLH 📺](https://www.twitch.tv/videos/1072555084) 
+2. [Hackathons Driving Engagement and Participation](https://www.twitch.tv/videos/1072555082)
+3. [Discord Moderator Program and Academy](https://www.twitch.tv/videos/1072555083)
+4. [Bots and Community Moderation](https://www.twitch.tv/videos/1072555085)
+
 ## ✍ Contributors  <a name = "contributors"></a>
 
 
