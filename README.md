@@ -68,6 +68,7 @@ Use the following bots to create your own custom commands and functionality. The
 |-|-|
 | [Zira.gg](https://zira.gg) | Zira lets users add and remove roles for themselves by simply reacting to a message. |
 | [Ticket Tool](https://tickettool.xyz/) | Ticket Tool is a highly versatile support bot for Discord. It allows private support channels, or Tickets, between your staff team and individual users to be created. |
+| [GearBot](https://gearbot.rocks) | GearBot is a feature-rich moderation bot, which allows easy automatic moderation with censored words, infraction management, and utility commands, to help you maintain a positive and welcoming server. |
 
 ### Tips & Tricks
 - Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
