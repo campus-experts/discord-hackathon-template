@@ -71,6 +71,7 @@ Use the following bots to create your own custom commands and functionality. The
 | [GearBot](https://gearbot.rocks) | GearBot is a feature-rich moderation bot, which allows easy automatic moderation with censored words, infraction management, and utility commands, to help you maintain a positive and welcoming server. |
 | [Skyra](http://skyra.pw/) | Skyra is a multi-purpose Discord Bot designed to run the majority of tasks with a great performance and constant 24/7 uptime. It includes reactions roles, moderation, tools, etc. For a full list of all commands, visit the [commands page](https://skyra.pw/commands). |
 | [Modmail](https://github.com/kyb3r/modmail) | Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way. This bot is free for everyone and always will be. It's easy to setup and it is really helpful for one who is looking for a good support system. |
+| [Apollo](https://top.gg/bot/475744554910351370) | All-in-one calendar bot for Discord. Recurring events, magic time zones, event reminders, role based sign-ups, and more! |
 
 ### Tips & Tricks
 - Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
