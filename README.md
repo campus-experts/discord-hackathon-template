@@ -20,7 +20,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Ever wanted to supercharge your online hackathon with Discord, but didn't know where to start? Fear not! This template, and the documentation below, gets you set up and running with your very own Hackathon Discord server in minutes. With a one-click server template packed full of pre-configured channels and roles, and all the documentation and resources to get your event going, this is your one-stop-shop for running a successful hackathon - or any other virtual event - on Discord.
+Ever wanted to supercharge your online hackathon with Discord, but didn't know where to start? Fear not! This template, and the documentation below, gets you set up and running with your very own Hackathon Discord server in minutes. With a one-click server template packed full of pre-configured channels and roles, and all the documentation and resources to get your event going, this is your one-stop shop for running a successful hackathon - or any other virtual event - on Discord.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -42,7 +42,7 @@ Now that you're all set up with the Student Developer Pack, have a Discord accou
 ### 🔗 [Hackathon Server Template](https://dis.gd/GHhackathon)
 
 ### Enable community features
-To take the best of the Discord features, you'll need enabled the community features. To enable your community server, you can read the instructions in the [Discord App Docs](https://support.discord.com/hc/en-us/articles/360047132851). This features will unlock the following community tools:
+To take the best of the Discord features, you'll need to enable the community features. To enable your community server, you can read the instructions in the [Discord App Docs](https://support.discord.com/hc/en-us/articles/360047132851). These features will unlock the following community tools:
 1. Announcements channel
 2. Welcome screen
 3. Server insights
@@ -57,9 +57,9 @@ To take the best of the Discord features, you'll need enabled the community feat
 Invite the hackathon staff, speakers, mentors and sponsors to your server and assign them the role that suits them better. You can read more about the server roles in the [Template Structure](https://github.com/campus-experts/discord-hackathon-template#template-structure) section.
 
 ### Add sponsors
-In order to provide visibility to your sponsors, you can create a category for each of them. We added an example on how this will look like in the `Sponsor` category of the template. By default, there is no voice channel but we suggest that sponsors have the ability to open a support voice channel within their sponsor category to help out attendees or interact with them.
+To provide visibility to your sponsors, you can create a category for each of them. We added an example of how this will look like in the `Sponsor` category of the template. By default, there is no voice channel but we suggest that sponsors can open a support voice channel within their sponsor category to help out attendees or interact with them.
 
-To give sponosors permissions to open a voice channel in their sponsor category, you can either give the each individual member the `manage channels` permission in the category.
+To give sponsors permission to open a voice channel in their sponsor category, you can either give each individual member the `manage channels` permission in the category.
 
 ### 🤖 Bots
 Use the following bots to create your own custom commands and functionality. These bots will help you automate your event making it more interactive, easy to manage and fun! We highly encourage you to customize these bots to your event needs.
@@ -70,20 +70,20 @@ Use the following bots to create your own custom commands and functionality. The
 | [Ticket Tool](https://tickettool.xyz/) | Ticket Tool is a highly versatile support bot for Discord. It allows private support channels, or Tickets, between your staff team and individual users to be created. |
 | [GearBot](https://gearbot.rocks) | GearBot is a feature-rich moderation bot, which allows easy automatic moderation with censored words, infraction management, and utility commands, to help you maintain a positive and welcoming server. |
 | [Skyra](http://skyra.pw/) | Skyra is a multi-purpose Discord Bot designed to run the majority of tasks with a great performance and constant 24/7 uptime. It includes reactions roles, moderation, tools, etc. For a full list of all commands, visit the [commands page](https://skyra.pw/commands). |
-| [Modmail](https://github.com/kyb3r/modmail) | Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way. This bot is free for everyone and always will be. It's easy to setup and it is really helpful for one who is looking for a good support system. |
+| [Modmail](https://github.com/kyb3r/modmail) | Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way. This bot is free for everyone and always will be. It's easy to set up and it is really helpful for one who is looking for a good support system. |
 
 ### Tips & Tricks
-- Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the lenght of the event that can react to the event needs.
+- Have multiple admins that can create and manage roles, channels, and permissions as needed and have a clear rotation of admins through the length of the event that can react to the event needs.
 - Tell judges **not** to answer DMs from attendees unless your team agrees to provide feedback to attendees.
 
 ### Template Structure
-The structure and roles of the template are consider minimal for any hackathon - but it's a good starting point for any type of virtual event. Let's take a look at the channels and roles:
+The structure and roles of the template are considered minimal for any hackathon - but it's a good starting point for any type of virtual event. Let's take a look at the channels and roles:
 
 #### Roles
-1. **Event Staff**: Anyone involved in the event organization such as hosts, moderators, and volunteers. This role has moderator permissions, and can  mute, kick, and ban users.
+1. **Event Staff**: Anyone involved in the event organization such as hosts, moderators, and volunteers. This role has moderator permissions and can mute, kick, and ban users.
 2. **Mentor**: An individual who is a part of the event, and provides advice to attendees.
 3. **Speaker**: An individual who is a part of the event, and delivers content through talk or workshop.
-4. **Judge**: An individual who is a part of the event, and evaluates the projects based on a criteria.
+4. **Judge**: An individual who is a part of the event, and evaluates the projects based on certain criteria.
 5. **Attendee**: Any individual who is a part of the event, and is either participating or lurking on the event server.   
 
 
